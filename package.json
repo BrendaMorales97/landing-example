@@ -1,0 +1,19 @@
+{
+  "name": "landing-example",
+  "version": "1.0.0",
+  "description": "Landing to example site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendaMorales97/landing-example.git"
+  },
+  "author": "Brenda Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendaMorales97/landing-example/issues"
+  },
+  "homepage": "https://github.com/BrendaMorales97/landing-example#readme"
+}
