@@ -2,11 +2,6 @@
     "name": "brend/landing-toei",
     "description": "Landing example site",
     "license": "ISC",
-    "autoload": {
-        "psr-4": {
-            "Brend\\LandingToei\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "BrenMor",
